@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/unknowner/Sites/laravel/flamingo'
+let g:netrw_dirhist_2='/home/unknowner/Sites/laravel/flamingo/resources'
+let g:netrw_dirhist_3='/home/unknowner/Sites/laravel/flamingo/resources/assets'
+let g:netrw_dirhist_4='/home/unknowner/Sites/laravel/flamingo/resources/assets/js'
+let g:netrw_dirhist_5='/home/unknowner/Sites/laravel/flamingo'
